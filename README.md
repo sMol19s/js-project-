@@ -1,2 +1,2 @@
 # js-project-
-js-project-repository
+js-project
