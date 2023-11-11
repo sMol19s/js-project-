@@ -1,5 +1,5 @@
 const s = require('lodash');
-const a = 'xxx';
+const a = 'xx';
 const mass = [a, 'b', 'c', 'd', '2', 'h', 'k', 'i', 't'];
 const chunked = s.chunk(mass, 3);
 
